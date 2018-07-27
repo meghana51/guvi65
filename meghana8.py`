@@ -1,0 +1,9 @@
+`char=(a,e,i,o,u)
+ch=1
+if(ch==char):
+    print("alphabet")
+ else:
+ print("not alphabet")
+    
+
+      
